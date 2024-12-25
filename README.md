@@ -40,9 +40,15 @@ Provide step-by-step instructions to set up the project locally:
    yarn
    ```
 4. Start the application:
+   Run android:
+
    ```bash
    yarn android
-   # or
+   ```
+
+   Run ios:
+
+   ```bash
    yarn ios
    ```
 
@@ -80,8 +86,16 @@ Provide instructions or examples on how to use the project after installation. Y
 
 Example:
 
+Run android:
+
 ```bash
-yarn android or yarn ios
+yarn android
+```
+
+Run ios:
+
+```bash
+yarn ios
 ```
 
 ## Contributing
