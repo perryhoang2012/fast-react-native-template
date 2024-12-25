@@ -40,6 +40,7 @@ Provide step-by-step instructions to set up the project locally:
    yarn
    ```
 4. Start the application:
+
    Run android:
 
    ```bash
