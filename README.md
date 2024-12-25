@@ -12,7 +12,6 @@ This React Native template is designed to help you develop mobile applications q
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Getting Started
 
@@ -21,7 +20,7 @@ This React Native template is designed to help you develop mobile applications q
 List the tools, frameworks, or libraries that need to be installed before setting up the project:
 
 - Node.js v16 or higher
-- npm or yarn
+- yarn
 - Other dependencies (e.g., React Native CLI, Xcode/Android Studio)
 
 ### Installation
@@ -30,23 +29,21 @@ Provide step-by-step instructions to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/project-name.git
+   git clone https://github.com/perryhoang2012/fast-react-native-template.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd project-name
+   cd fast-react-native-template
    ```
 3. Install dependencies:
    ```bash
-   npm install
-   # or
-   yarn install
+   yarn
    ```
 4. Start the application:
    ```bash
-   npm start
+   yarn android
    # or
-   yarn start
+   yarn ios
    ```
 
 ## Features
@@ -105,7 +102,3 @@ Contributions are welcome! Follow these steps to contribute:
    git push origin feature-name
    ```
 5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
